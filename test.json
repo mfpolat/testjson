@@ -1,0 +1,67 @@
+{
+  "name": "london",
+  "items": [
+    "sku_1",
+    "sku_2"
+  ],
+  "texts": [
+    {
+      "name": "header-text",
+      "content": "text content",
+      "contentColor": "#2c3e50",
+      "contentSize": 16,
+      "underline": false,
+      "alignment": "LEFT"
+    },
+    {
+      "name": "description-text",
+      "content": "descriptipn content",
+      "contentColor": "#34495e",
+      "contentSize": 11,
+      "underline": false,
+      "alignment": "CENTER"
+    },
+    {
+      "name": "button-up-header-text",
+      "content": "Button header text",
+      "contentColor": "#e74c3c",
+      "contentSize": 11,
+      "underline": false,
+      "alignment": "CENTER"
+    },
+    {
+      "name": "button-up-description-text",
+      "content": "button up description text",
+      "contentColor": "#e74c3c",
+      "contentSize": 11,
+      "underline": false,
+      "alignment": "CENTER"
+    }
+  ],
+  "images": [
+    {
+      "name": "description-text",
+      "url": "https://i.picsum.photos/id/755/600/400.jpg",
+      "alpha": 0.7,
+      "gif": false
+    }
+  ],
+  "buttons": [
+    {
+      "name": "button1",
+      "content": "button content",
+      "contentColor": "#ffffff",
+      "contentSize": 11,
+      "underline": false,
+      "backgroundAlpha": 0.7,
+      "backgroundColor": "#e74c3c",
+      "backgroundImageUrl": "",
+      "radius": 2.4,
+      "width": 110,
+      "height": 40,
+      "borderColor": "#c0392b",
+      "borderWidth": 0.8,
+      "effect": "jump"
+    }
+  ]
+}
